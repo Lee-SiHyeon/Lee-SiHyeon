@@ -6,7 +6,7 @@
 
 ## 🥇 Careers
 
-- [LG Electronics](https://www.lge.com/) Vehicle Solution — Software Engineer (2024 - Present)
+- [LG Electronics](https://www.lg.com/global/mobility) Vehicle Solution — Software Engineer (2024 - Present)
 
 ## 🛠️ Focus Areas
 
