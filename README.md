@@ -11,8 +11,8 @@
 
 ## 🥇 Careers
 
-- [LG Electronics](https://www.lg.com/global/mobility) VS NAD & V2X Unit, Protocol Team — Research Engineer (2023 – 2024)
-- [LG Electronics](https://www.lg.com/global/mobility) VS NAD & V2X Unit, Protocol Team — **Senior Research Engineer** (2025 – Present)
+- [LG Electronics](https://www.lg.com/global/mobility) VS Telematics NAD & V2X Unit, Protocol Team — Research Engineer (2023 – 2024)
+- [LG Electronics](https://www.lg.com/global/mobility) VS Telematics NAD & V2X Unit, Protocol Team — **Senior Research Engineer** (2025 – Present)
 
 ## 🚗 OEM Collaboration
 
